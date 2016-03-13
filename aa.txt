@@ -1,0 +1,23 @@
+yrtz/WebRoot/WEB-INF/classes
+
+zexuma@yiruntz.com
+
+
+mvn archetype:generate
+
+yradmin
+
+a12345
+
+loginAdmin.do?=tologin
+Description	Resource	Path	Location	Type
+Invalid property name 'BiddingRequestService' - not JavaBean compliant [config set: yrtz/web-context]	spring-servlet.xml	/yrtz/src/source	line 138	Spring Beans Problem
+
+
+
+git config --global user.name 'zexuma'
+git config --global user.email 'zexuma@yiruntz.com'
+ssh-keygen -t rsa
+
+
+https://github.com/mazexu/myFirstCode.git
